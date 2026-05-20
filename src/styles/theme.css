@@ -3,3 +3,18 @@
   --font-weight-normal: 500;
   --font-weight-medium: 600;
   --font-weight-bold: 700;
+  
+  --color-background: #ffffff;
+  --color-foreground: #09090b;
+  
+  --color-green-50: #f0fdf4;
+  --color-green-600: #16a34a;
+  --color-green-700: #15803d;
+}
+
+.high-contrast {
+  --color-foreground: #000000;
+  --font-weight-normal: 600;
+  --font-weight-medium: 700;
+  --font-weight-bold: 800;
+}
